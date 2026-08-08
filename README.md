@@ -1,7 +1,6 @@
 # Deep-Learning for Optimization
 
-
-I currently focus on deep learning for optimization including
+We currently focus on deep learning for optimization (particularly compressed sensing) including
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
 - [Deep Unfolding (DU)](#DU)
